@@ -1,1 +1,6 @@
-sqdqsd
+{
+  "banner": "ca-app-pub-5284d",
+  "inter": "ca-app-pub-52845z8512",
+  "reward": "ca-app-pub-5284546v8799",
+  "rate": "1"
+}
